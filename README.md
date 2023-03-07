@@ -23,6 +23,9 @@ from pcalibration import CalibratorWrapper, CrossVennAbers
 # Load the data
 X_train, X_test, y_train, y_test = ...
 
+# Load the classifier
+model = ...
+
 # Create a CalibratorWrapper object
 calibrator = CalibratorWrapper(model, CrossVennAbers(k=5))
 
