@@ -1,6 +1,6 @@
 # probability-calibration
 
-Probability calibration is a technique to calibrate the probabilities of a classifier. This package provides a simple interface to calibrate the probabilities of a sklearn-stype classifier. The package also provides a set of calibration methods.
+Probability calibration is a technique to calibrate the probabilities of a classifier. This package provides a simple interface to calibrate the probabilities of a classifier (sklearn-like interface).
 
 ## Methods
 
